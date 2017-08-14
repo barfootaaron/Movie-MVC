@@ -1,0 +1,8 @@
+/Users/aaronbarfoot/workspace/CSharp-DotNet/MvcMovie/bin/Debug/netcoreapp1.1/MvcMovie.deps.json
+/Users/aaronbarfoot/workspace/CSharp-DotNet/MvcMovie/bin/Debug/netcoreapp1.1/MvcMovie.runtimeconfig.json
+/Users/aaronbarfoot/workspace/CSharp-DotNet/MvcMovie/bin/Debug/netcoreapp1.1/MvcMovie.runtimeconfig.dev.json
+/Users/aaronbarfoot/workspace/CSharp-DotNet/MvcMovie/bin/Debug/netcoreapp1.1/MvcMovie.dll
+/Users/aaronbarfoot/workspace/CSharp-DotNet/MvcMovie/bin/Debug/netcoreapp1.1/MvcMovie.pdb
+/Users/aaronbarfoot/workspace/CSharp-DotNet/MvcMovie/obj/Debug/netcoreapp1.1/MvcMovie.AssemblyInfo.cs
+/Users/aaronbarfoot/workspace/CSharp-DotNet/MvcMovie/obj/Debug/netcoreapp1.1/MvcMovie.dll
+/Users/aaronbarfoot/workspace/CSharp-DotNet/MvcMovie/obj/Debug/netcoreapp1.1/MvcMovie.pdb
